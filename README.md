@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css," /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase," />
 </div>
 
 ## Deskripsi
