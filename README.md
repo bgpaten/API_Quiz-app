@@ -1,4 +1,4 @@
-Quiz API
+<h1 align: center>Quiz API</h1>
 
 ---
 
