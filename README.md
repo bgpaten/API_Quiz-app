@@ -1,5 +1,12 @@
 <h1 align="center">Quiz API</h1>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb," /><br>
+</div>
+
 ## Deskripsi
 Ini adalah proyek API aplikasi Quiz yang saya kembangkan sebagai bagian dari portofolio saya. API ini menyediakan endpoint untuk membuat, mengelola, dan mengambil soal-soal quiz beserta jawabannya. Proyek ini bertujuan untuk menunjukkan keterampilan saya dalam membangun API RESTful yang efisien dan terstruktur.
 
