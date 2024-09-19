@@ -47,36 +47,38 @@ Ini adalah proyek API aplikasi Quiz yang saya kembangkan sebagai bagian dari por
 - **Metode**: `GET`
 - **Response**:
   ```json
-quizzes: [
-  {
-    id: "GmcWUXRpFyDVYHNDhyVm",
-    question: "Pancasila Pertama ?",
-    option1: "Ketuhanan yang maha esa",
-    option2: "Syahadat",
-    option3: "Islam",
-    option4: "Kemanusiaan",
-    ans: "1",
-  },
-  {
-    id: "wdrpztRHLIf8tR9bnjj5",
-    question: "Bahasa Pemrograman dibawah ini, Kecuali?",
-    option1: "Javascript",
-    option2: "Python",
-    option3: "C++",
-    option4: "HTML",
-    ans: "4",
-  },
-  {
-    id: "x7gULiJiVOeNWPQ6NquX",
-    question: "Yang termasuk bahasa pemrograman dibawah adalah ?",
-    option1: "HTML",
-    option2: "JSON",
-    option3: "PHP",
-    option4: "CSS",
-    ans: "3",
-  },
-];
-  ```
+      {
+  quizzes: [
+    {
+      id: "GmcWUXRpFyDVYHNDhyVm",
+      question: "Pancasila Pertama ?",
+      option1: "Ketuhanan yang maha esa",
+      option2: "Syahadat",
+      option3: "Islam",
+      option4: "Kemanusiaan",
+      ans: "1",
+    },
+    {
+      id: "wdrpztRHLIf8tR9bnjj5",
+      question: "Bahasa Pemrograman dibawah ini, Kecuali?",
+      option1: "Javascript",
+      option2: "Python",
+      option3: "C++",
+      option4: "HTML",
+      ans: "4",
+    },
+    {
+      id: "x7gULiJiVOeNWPQ6NquX",
+      question: "Yang termasuk bahasa pemrograman dibawah adalah ?",
+      option1: "HTML",
+      option2: "JSON",
+      option3: "PHP",
+      option4: "CSS",
+      ans: "3",
+    },
+  ];
+}
+```
 - **Deskripsi**: Mengambil semua soal yang tersedia di dalam database.
 
 
