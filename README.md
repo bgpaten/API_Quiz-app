@@ -1,6 +1,4 @@
-<h1 align: center>Quiz API</h1>
-
----
+<h1 align="center">Quiz API</h1>
 
 ## Deskripsi
 Ini adalah proyek API aplikasi Quiz yang saya kembangkan sebagai bagian dari portofolio saya. API ini menyediakan endpoint untuk membuat, mengelola, dan mengambil soal-soal quiz beserta jawabannya. Proyek ini bertujuan untuk menunjukkan keterampilan saya dalam membangun API RESTful yang efisien dan terstruktur.
